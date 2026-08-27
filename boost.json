@@ -1,0 +1,9 @@
+{
+    "agents": [
+        "codex"
+    ],
+    "guidelines": true,
+    "packages": [
+        "livewire/blaze"
+    ]
+}
